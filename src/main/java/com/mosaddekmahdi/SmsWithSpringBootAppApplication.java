@@ -1,4 +1,4 @@
-package com.mosaddekmahdi.SMSWithSpringBootApp;
+package com.mosaddekmahdi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

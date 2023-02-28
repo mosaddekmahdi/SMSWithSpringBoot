@@ -1,12 +1,12 @@
-package com.mosaddekmahdi.SMSWithSpringBootApp.service.impl;
+package com.mosaddekmahdi.service.impl;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.mosaddekmahdi.SMSWithSpringBootApp.entity.Student;
-import com.mosaddekmahdi.SMSWithSpringBootApp.repository.StudentRepository;
-import com.mosaddekmahdi.SMSWithSpringBootApp.service.StudentService;
+import com.mosaddekmahdi.entity.Student;
+import com.mosaddekmahdi.repository.StudentRepository;
+import com.mosaddekmahdi.service.StudentService;
 
 
 @Service 

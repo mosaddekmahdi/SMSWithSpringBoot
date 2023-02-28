@@ -1,10 +1,10 @@
-package com.mosaddekmahdi.SMSWithSpringBootApp.controller;
+package com.mosaddekmahdi.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.mosaddekmahdi.SMSWithSpringBootApp.service.StudentService;
+import com.mosaddekmahdi.service.StudentService;
 
 @Controller
 

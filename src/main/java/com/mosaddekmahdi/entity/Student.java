@@ -1,4 +1,4 @@
-package com.mosaddekmahdi.SMSWithSpringBootApp.entity;
+package com.mosaddekmahdi.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

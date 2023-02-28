@@ -1,4 +1,4 @@
-package com.mosaddekmahdi.SMSWithSpringBootApp.controller;
+package com.mosaddekmahdi.controller;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;

@@ -1,4 +1,4 @@
-package com.mosaddekmahdi.SMSWithSpringBootApp.controller;
+package com.mosaddekmahdi.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 
